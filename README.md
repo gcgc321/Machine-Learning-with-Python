@@ -1,6 +1,6 @@
 # Machine Learning with Python Assignment
 
-This project focuses on the Iris Data Set using Scikit-Learn.
+This project focuses on the Iris Data Set using Scikit-Learn, Pandas, Scipy, Numpy and Matplotlib.
 
 ## How to Run
 1. Create a virtual environment: `python -m venv .venv`
